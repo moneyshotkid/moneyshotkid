@@ -1,16 +1,30 @@
-## Hi there 👋
+## About Me 🚀
+Fractional CTO with 2 decades of writing full stack code based in beautiful Southern California. I bridge executive leadership with deep technical expertise, focusing on development of solutions and team growth. Whether architecting systems or leading engineering strategy, I believe in staying close to the code while driving organizational success.
 
-<!--
-**moneyshotkid/moneyshotkid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  const nickNguyen = {
+      roles: {
+          current: "Fractional CTO & Tech Lead",
+          passion: "AI & Team Growth"
+        },
+      location: "Dana Point, California",
+      expertise: {
+            engineering: {
+                leadership: ["Strategy", "Team Scaling", "Technical Direction"],
+                hands_on: ["Full Stack","System Design", "Architecture", "Code Quality"]
+            },
+            tech: {
+                frontend: ["React", "React Native", "HTML/CSS"],
+                backend: ["PHP","Python"],
+                cloud: ["AWS","Google Cloud"],
+                practices: ["Microservices", "Modulith", "DevOps", "AI"]
+            }
+        },
+      values: ["Full Stack", "Innovation", "Mentorship"]
+  };
+  
+ 🎯
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
