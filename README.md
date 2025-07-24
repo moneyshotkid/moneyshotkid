@@ -1,4 +1,5 @@
 ## About Me 🚀
+
 Fractional CTO with 2 decades of writing full stack code based in beautiful Southern California. I bridge executive leadership with deep technical expertise, focusing on development of solutions and team growth. Whether architecting systems or leading engineering strategy, I believe in staying close to the code while driving organizational success.
 
   const nickNguyen = {
