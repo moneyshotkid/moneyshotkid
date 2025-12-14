@@ -10,6 +10,7 @@ Hi! I’m **Nick Nguyen** Fractional CTO with expierence as a full stack develop
 
 ### 🚧 Projects I’m Proud Of
 - CTO at **Navenu**, where I led mobile (iOS/Android) and AI-powered concierge development, launching early versions in markets like London and Dubai.
+- Created GuidetoRide.com to connect riders with local ride guides. Helping riders get paid to ride and to get out and explore new trails. 
 - Created Onpoint a robust MMJ management application by myself and open sourced it.
 - Successfully built my dream motorcycle in 3 weeks using scrap parts. 
 - Former CEO & Founder of Eminent Funding Mortgage Corporation.
