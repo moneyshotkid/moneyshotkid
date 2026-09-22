@@ -1,5 +1,5 @@
 ## 🚀 About Me —
-Hi! I’m **Nick Nguyen** Fractional CTO with expierence as a full stack developer, avid cyclist, and AI tinkerer, from the beautiful coast line of southern California.
+Hi! I’m **Nick Nguyen** Fractional CTO with expierence as a lead full stack, AI, Cloud & engineer, avid cyclist, and AI tinkerer, from the beautiful coast line of southern California.
 
 ---
 
