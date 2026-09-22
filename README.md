@@ -4,18 +4,19 @@ Hi! I’m **Nick Nguyen** Fractional CTO with expierence as a lead full stack, A
 ---
 
 ### 👨‍💻 What I Do
-- I have over **20 years** of experience, architecting and leading the creation of web and mobile apps using **PHP, Node.js, React Native, Python**, as well as managing cloud networks, integrating AI and more ([nicknguyen.com](https://nicknguyen.com/?utm_source=github)).
+- I have over **20 years** of experience, architecting and leading the creation of web and mobile apps using **PHP, Node.js, React Native, Python, and many more**, as well as managing cloud networks, and integrating AI and more ([nicknguyen.com](https://nicknguyen.com/?utm_source=github)).
 
 ---
 
 ### 🚧 Projects I’m Proud Of
-- CTO at **Navenu**, where I led mobile (iOS/Android) and AI-powered concierge development, launching early versions in markets like London and Dubai.
+- Formerly CTO at **Navenu**, where I led mobile (iOS/Android) and AI-powered concierge development, launching early versions in markets like London and Dubai.
+- Former CEO & Founder of Eminent Funding Mortgage Corporation.
+- Created Belvedere AI Conversational Phone Butler Service
 - Created GuidetoRide.com to connect riders with local ride guides. Helping riders get paid to ride and to get out and explore new trails. 
 - Created Onpoint a robust MMJ management application by myself and open sourced it.
+- I successfully trained an AI model what I am attracted to then deployed a bot to swipe on tinder for me. Just for the lols.
 - Successfully built my dream motorcycle in 3 weeks using scrap parts. 
-- Former CEO & Founder of Eminent Funding Mortgage Corporation.
 - Achieved Charter at BMW North America in 2004
-- Trained an AI model my preferences, and deployed an AI bot to swipe intelligently on apps—yes, that’s real and a bit weird.
 - Avid endurance road cyclist 🚴 and mountain biker with Strava activities in the **top 1%** of over 100 million users in 2022, 2023 & 2024.
 
 
@@ -28,7 +29,7 @@ Hi! I’m **Nick Nguyen** Fractional CTO with expierence as a lead full stack, A
 ---
 
 ### 💬 Want to Collaborate?
-I’m always open to new freelance projects or creative experiments—especially those involving **AI**, **voice control**, or unusual UX flows.
+I’m always open to new freelance projects or creative experiments—especially those involving **AI**, **Application Development**, or unusual UX flows.
 
 **Catch more of my thoughts or get in touch:**
 - 🔗 [NickNguyen.com](https://nicknguyen.com/?utm_source=github)
@@ -67,10 +68,11 @@ Whether you need a bot that screens calls, an AI-enhanced web app, or just someo
                 hands_on: ["Full Stack","Scalable Solutions", "Architecture", "Code Quality"]
             },
             tech: {
-                frontend: ["React", "React Native", "HTML/CSS", "Javascript"],
+                frontend: ["React", "React Native", "HTML/CSS", "Javascript","Tailwind","Bootstrap"],
                 backend: ["PHP","Python"],
-                cloud: ["AWS","Google Cloud"],
-                arhitectures: ["Microservices", "REST API", "MVC", "AI"]
+   AI: ["LLM","Jev","Model Expert","Agent Orchestration","AI Integration","Agent Harnesses","Tensorflow","RAG", "Memory Management" ],
+                cloud: ["AWS","Google Cloud","Supbase","Fly.io","firebase"],
+                arhitectures: ["Wordpress","Microservices", "REST API", "MVC", "AI"]
             }
         },
       values: ["Full Stack", "Scalability", "Results Driven"]
